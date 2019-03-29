@@ -1,7 +1,12 @@
-public class problem_5 {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
-  public static void main(String[] args)
-  {         
+public class problem_5 {
+    public static void main(String args[]) {
        int toNumber = 20;
         
         int divider = 2;
@@ -14,7 +19,7 @@ public class problem_5 {
         
         for (int i = toNumber; i > 1; i--) {
             
-            List<integer> list = new ArrayList<Integer>();
+            List<Integer> list = new ArrayList<Integer>();
             
             value = i;
             
@@ -66,14 +71,12 @@ public class problem_5 {
         
         for (Integer integer : keySet) {
             
-            tempSum = (int) Mapt.pow(integer, map.get(integer));
+            tempSum = (int) Math.pow(integer, map.get(integer));
             
             sum *= tempSum;
             
         }
         
         System.out.println("Sum " + sum);
-
     }
-    
 }
