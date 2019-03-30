@@ -12,8 +12,6 @@ public class problem_16 {
 
 		BigInteger power = integer.pow(1000);
 
-		System.out.println(power);
-
 		String powerString = power.toString();
 
 		for (int i = 0; i < powerString.length(); i++) {
