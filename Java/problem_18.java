@@ -1,6 +1,10 @@
+import java.util.concurrent.TimeUnit;
+
 public class problem_18_1 {
 
 	public static void main(String[] args) {
+		
+		long startTime = System.nanoTime();
 
 		int[][] ints = { { 75 }, { 95, 64 }, { 17, 47, 82 }, { 18, 35, 87, 10 }, { 20, 04, 82, 47, 65 },
 				{ 19, 01, 23, 75, 03, 34 }, { 88, 02, 77, 73, 07, 63, 67 }, { 99, 65, 04, 28, 06, 16, 70, 92 },
@@ -59,6 +63,10 @@ public class problem_18_1 {
 		}
 
 		System.out.println("Max " + max);
+		
+		long totalTime = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startTime);
+		
+		System.out.println(totalTime/1000);
 
 	}
 
