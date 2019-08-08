@@ -17,7 +17,7 @@ public class Problem_26 {
         
         int theLength = 0;
         
-        for(int divisor = 1; divisor <= maxDivisor; divisor++)
+        for(int divisor = 1; divisor < maxDivisor; divisor++)
         {
             
             ArrayList<Integer> list = new ArrayList<Integer>();
