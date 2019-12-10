@@ -1,10 +1,10 @@
-package problem_37;
+package Problem_37;
 
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.concurrent.TimeUnit;
 
-public class problem_37 {
+public class Problem_37 {
 
 	private static HashSet<Integer> primes = new HashSet<Integer>();
 	

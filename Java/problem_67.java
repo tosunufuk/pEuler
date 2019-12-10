@@ -1,4 +1,4 @@
-package problem_67;
+package Problem_67;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-public class problem_67 {
+public class Problem_67 {
 
 	public static void main(String[] args) {
 
@@ -22,7 +22,7 @@ public class problem_67 {
 
 			String line;
 
-			File file = new File("src/problem_67/p067_triangle.txt");
+			File file = new File("src/Problem_67/p067_triangle.txt");
 
 			reader = new BufferedReader(new FileReader(file));
 

@@ -1,4 +1,4 @@
-package problem_22;
+package Problem_22;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class problem_22 {
+public class Problem_22 {
 
 	public static void main(String[] args) {
 
@@ -22,7 +22,7 @@ public class problem_22 {
 
 			String line;
 
-			File file = new File("src/problem_22/p022_names.txt");
+			File file = new File("src/Problem_22/p022_names.txt");
 
 			reader = new BufferedReader(new FileReader(file));
 

@@ -1,4 +1,4 @@
-package problem_40;
+package Problem_40;
 
 import java.util.ArrayList;
 
@@ -8,9 +8,9 @@ public class Problem_40 {
 
 	public static void main(String[] args) {
 
-		Problem_40 problem_40 = new Problem_40();
+		Problem_40 Problem_40 = new Problem_40();
 
-		problem_40.solve();
+		Problem_40.solve();
 
 	}
 

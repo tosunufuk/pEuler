@@ -1,10 +1,10 @@
-package problem_29;
+package Problem_29;
 
 import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 
-public class problem_29 {
+public class Problem_29 {
 
 	public static void main(String[] args) {
 		

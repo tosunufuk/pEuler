@@ -1,10 +1,10 @@
-package problem_39;
+package Problem_39;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-public class problem_39 {
+public class Problem_39 {
 
 	public static void main(String[] args) {
 		

@@ -1,9 +1,9 @@
-package problem_34;
+package Problem_34;
 
 import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
-public class problem_34 {
+public class Problem_34 {
 	
 	private static long startTime = System.nanoTime();
 

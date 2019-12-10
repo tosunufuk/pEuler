@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class problem_5 {
+public class Problem_5 {
     public static void main(String args[]) {
        int toNumber = 20;
         

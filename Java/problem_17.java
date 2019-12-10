@@ -1,4 +1,4 @@
-public class problem_17 {
+public class Problem_17 {
 
 	public enum EnumNumbers {
 

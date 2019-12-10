@@ -1,6 +1,6 @@
 import java.util.concurrent.TimeUnit;
 
-public class problem_23{
+public class Problem_23{
 
      public static void main(String []args){
       

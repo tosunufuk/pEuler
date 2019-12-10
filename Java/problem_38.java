@@ -1,9 +1,9 @@
-package problem_38;
+package Problem_38;
 
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
-public class problem_38 {
+public class Problem_38 {
 
 	public static void main(String[] args) {
 

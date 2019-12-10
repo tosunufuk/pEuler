@@ -1,11 +1,11 @@
-package problem_36;
+package Problem_36;
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-public class problem_36 {
+public class Problem_36 {
 
 	private static HashMap<Integer,Boolean> palindromes = new HashMap<Integer, Boolean>();
 	

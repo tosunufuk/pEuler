@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class problem_24 {
+public class Problem_24 {
 
 	private static int counter = 999999;
 

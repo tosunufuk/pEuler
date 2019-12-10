@@ -1,8 +1,8 @@
-package problem_28;
+package Problem_28;
 
 import java.util.concurrent.TimeUnit;
 
-public class problem_28 {
+public class Problem_28 {
 	
 	public static void main(String[] args) {
 		
